@@ -14,7 +14,7 @@ int main(void)
     average=sum/n;
     for(int i=0;i<n;i++){
         right=average-number[i];
-
+        
         
     }
 
