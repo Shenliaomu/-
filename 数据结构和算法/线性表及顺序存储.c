@@ -3,7 +3,7 @@
 
 #define MAXSIZE 5
 typedef struct 
-{
+{   
     int age;
     int height;
     float weight;
