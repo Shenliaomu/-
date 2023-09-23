@@ -2,5 +2,4 @@
 main()
 {
     printf("Hello,World!");
-    getchar();
 }
